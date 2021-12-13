@@ -1,0 +1,80 @@
+#main-content{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text-center{
+    text-align: center;
+}
+.text-left{
+    text-align: left;
+}
+.text-right{
+    text-align: right;
+}
+.text-error{
+    color: red;
+}
+.font-12{
+    font-size: 12px;
+}
+.font-14{
+    font-size: 14px;
+}
+.font-18{
+    font-size: 18px;
+}
+.font-24{
+    font-size: 24px;
+}
+.font-bold{
+    font-weight: bold;
+}
+.button-action{ 
+    display: block;
+    padding-right: 10px;
+}
+.button-action .left{
+    float: left;
+}
+.button-action .right{
+    float: right;
+}
+.text-alert{
+    background-color: #e2e3e5;
+    color: black;
+}
+.notification{
+    text-align: left;
+}
+
+.notification .date-notification{
+    font-size: 10px;
+    font-style: italic;
+}
+.notification .desc-notification{
+    font-size: 14px;
+}
+.tbody, td, tfoot, th, thead, tr{
+    vertical-align: middle;
+}
+.small-padding{
+    padding: 5px;
+}
+.margin-right-action{
+    margin-right: 5px;
+}
+a{
+    text-decoration: none;
+}
+.footer{
+    position: relative;
+    bottom: 0;
+    left: 0;
+    background-color: #898994;
+    width: 100%;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+.image-table{
+    width: 30px;
+}
